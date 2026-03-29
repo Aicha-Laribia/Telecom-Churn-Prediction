@@ -1,6 +1,5 @@
 # Telecom-Churn-Prediction
-End-to-end machine learning pipeline for predicting telecom customer churn. This project demonstrates how to build a complete data science and MLOps workflow, from data ingestion to production deployment.
-
+End-to-end machine learning pipeline for predicting telecom customer churn. 
 ## 🌐 Live Application
 
 👉 https://aiclar23-telecom-churn-prediction.hf.space/
