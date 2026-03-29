@@ -61,7 +61,7 @@ User → Frontend UI → FastAPI → ML Model → Prediction
 * Ingestion pipeline using Python
 * Verified with SQL queries
 
-![pgAdmin](assets/pgAdmin 4.png)
+![pgAdmin](assets/pgAdmin%204.png)
 
 ---
 
