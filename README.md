@@ -145,7 +145,7 @@ The dataset is imbalanced:
 
 ---
 
-## 📈 Results & Insights
+## 4. Results & Insights
 
 * Significant improvement in churn detection vs baseline
 * Demonstrated clear precision-recall trade-off
@@ -165,7 +165,7 @@ The dataset is imbalanced:
 
 ---
 
-##  Deployment
+## 5. Deployment
 
 * Backend: FastAPI REST API
 * Frontend: Interactive UI
