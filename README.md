@@ -61,6 +61,8 @@ User → Frontend UI → FastAPI → ML Model → Prediction
 * Ingestion pipeline using Python
 * Verified with SQL queries
 
+![pgAdmin](assets/pgAdmin 4.png)
+
 ---
 
 ### 2️⃣ Exploratory Data Analysis
@@ -134,6 +136,12 @@ The dataset is imbalanced:
 * High recall → captures most churn customers
 * Balanced precision → avoids excessive false alarms
 * Better trade-off than baseline models
+
+![Model Metrics](assets/Screenshot%202026-03-29%20at%2020-25-03%20Run%20e81c2504a657422989a8d03353db59b4%20-%20MLflow.png)
+
+![Model Metrics](assets/image.png)
+
+![ROC curve](assets/roc_curve.png)
 
 ---
 
