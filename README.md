@@ -187,7 +187,6 @@ The dataset is imbalanced:
 ##  Future Improvements
 
 * Add SHAP for interpretability
-* Automate threshold selection (ROC / PR curve)
 * Add model monitoring (drift detection)
 * Enhance UI/UX
 
