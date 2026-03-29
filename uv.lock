@@ -2611,6 +2611,7 @@ name = "telecom-churn-prediction"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "fastapi" },
     { name = "jupyter" },
     { name = "matplotlib" },
     { name = "mlflow" },
@@ -2624,11 +2625,13 @@ dependencies = [
     { name = "setuptools" },
     { name = "sqlalchemy" },
     { name = "tqdm" },
+    { name = "uvicorn" },
     { name = "xgboost" },
 ]
 
 [package.metadata]
 requires-dist = [
+    { name = "fastapi", specifier = ">=0.135.2" },
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "mlflow", specifier = ">=3.10.0" },
@@ -2642,6 +2645,7 @@ requires-dist = [
     { name = "setuptools", specifier = ">=82.0.1" },
     { name = "sqlalchemy", specifier = ">=2.0.48" },
     { name = "tqdm", specifier = ">=4.67.3" },
+    { name = "uvicorn", specifier = ">=0.42.0" },
     { name = "xgboost", specifier = ">=3.2.0" },
 ]
 
